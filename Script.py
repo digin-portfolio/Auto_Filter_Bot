@@ -225,7 +225,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iqbaleditzzz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+r6hfZicxDKxjOTRl">[ 𝐌𝐎𝐕𝐈𝐄𝐒 & 𝐒𝐄𝐑𝐈𝐄𝐒 𝐔𝐏𝐃𝐀𝐓𝐄 𝐓𝐕 ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+r6hfZicxDKxjOTRl">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+r6hfZicxDKxjOTRl">[MOVIES AND SERIES UPDATES]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
