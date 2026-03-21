@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'TELEVISION_SHOWSBOT')   # Session name for the bot
 API_ID = int(environ.get('API_ID', '7506896')) # API ID from my.telegram.org
 API_HASH = environ.get('API_HASH', 'a7fe67d6616c957e0e488ce910aeaadb')  # API Hash from my.telegram.org
-BOT_TOKEN = environ.get('BOT_TOKEN', "8683002287:AAGmBWBrHvZAcg9ZblTRjkHz67UDsGh_Ce4")    # Bot token from @BotFather
+BOT_TOKEN = environ.get('BOT_TOKEN', "8683002287:AAG2mQVPy9K1MErq-UMP7azxYe1mcTXVTa4")    # Bot token from @BotFather
 
 # ============================
 # Bot Settings Configuration
